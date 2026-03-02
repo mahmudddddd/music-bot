@@ -1,4 +1,4 @@
-{
+A{
   "name": "sensequality-music-bot",
   "version": "2.0.0",
   "description": "Discord music bot",
@@ -16,6 +16,7 @@
     "node-fetch": "^3.3.2",
     "ffmpeg-static": "^5.2.0",
     "sodium-native": "^4.1.1",
+    "tweetnacl": "^1.0.3",
     "dotenv": "^16.4.5"
   },
   "engines": {
