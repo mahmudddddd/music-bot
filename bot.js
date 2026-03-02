@@ -1,4 +1,4 @@
-require(‘dotenv’).config();
+require('dotenv').config();
 const { Client, GatewayIntentBits, Collection, REST, Routes, ActivityType, EmbedBuilder } = require(‘discord.js’);
 const http = require(‘http’);
 const https = require(‘https’);
